@@ -20,7 +20,7 @@ class LogViewer:
 
         # Interface
         label = tk.Label(window,
-                        text="Log and Steps - System Logs Viewer \n By: Walen0k \n Github - ",
+                        text="Log and Steps - System Logs Viewer \n By: Walen0k \n Github - @Walen0k-GiT",
                         font=("Regular, italic", 16, "bold"),
                         bg=self.bg_color,
                         fg=self.fg_color)
